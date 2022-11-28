@@ -22,6 +22,7 @@ var names = ["Alf", "Bo", "Gail"];
 ///Specifying an array element, code an alert that displays "Gail".
 
 alert(names[2]);
+console.table(names);
 
 ///Create an array with a single element, a string. The array hasn't been declared beforehand
 let singleElement = ['a string'];
@@ -42,4 +43,4 @@ let favAirlines = airlinesArray[1];
 /// This array has been defined.
 var names = ["Alf", "Bo", "Gail"];
 ///Specifying an array element, code an alert that displays "Gail".
-
+alert(names[2]);
